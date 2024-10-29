@@ -1,0 +1,28 @@
+/* Basic styling for the Demo Project */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #1e90ff;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+.new-section {
+    background-color: #e0e7ff;
+    border-left: 4px solid #1e90ff;
+    padding: 10px;
+    margin: 20px;
+}
